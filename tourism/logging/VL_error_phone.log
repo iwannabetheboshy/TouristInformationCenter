@@ -1,0 +1,3474 @@
+https://www.vl.ru/aeroport-artem
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/albedina-ea
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/alien-coffee
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/anisa
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/ararat
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/asia-mix-vl
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/babushkiny-pirozhki
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/bdgastrobar
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/beloe-derevo
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/bigburger
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/bistro-nyam-nyam
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/bordo
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/bosfor-cafe
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/briosh
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/bufet-usr
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/bulka-coop
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/burger-king-uss
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/chas-obeda
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/chop-kebab
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/coffeboom
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/coffee
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/coffeecity
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/coffeestore
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/coffeeway
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/curry-ya
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/dereza
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/dikaya-orhideya
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/djo
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/doner-house
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/doner-kebab
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/dunge-bar
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/dvin
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/eda-i-tochka
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/edelvejs-kafe
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/eko
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/elena-vldk
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/fast-fud-artem
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/funny-chiken
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/gelato-italiano
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/gradusnik
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/hohoro-coffee
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/hot-dog
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/hot-ice-cream
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/hrust
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/ice-roll
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/ip-grudcen
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/isfara
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/johny-woker
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/kafe-rus
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/kiparis-pit-stop
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/kobra-robra
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/kofejnya-usr
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/kofejnya-vdk
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/konak
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/krosskultura
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/lakomka
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/macaronniki
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/magazin-ff-produkcii
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/meetmeat-vl
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/minutka-horol
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/mishina-e-yu-vl
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/mono-coffee
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/moonshines
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/more-kofe
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/nautilus-coffee
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/nero-coffee-bar
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/new-cafe
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/oh-my-coffee
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/open-grill
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/papito-bar
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/pari-vlad
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/pchelka-kir
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/pelmennaya-shkotovo
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/pena-dnej
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/pho-bomb
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/pit-line
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/piu-piu
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/plombir-cafe
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/poehali-uss
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/policarp
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/proekt-import
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/puzyrki
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/ra-men
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/retro-coffee-bar
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/roppongi-man
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/shashlychki-u-dyadi-slavy
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/shashlychok-uss
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/shik-avtokafe
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/sila-kofe
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/sinkopa
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/sirenevyj-tuman
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/sitora-pilaw
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/sladkii-ugolok
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/stolovaya-kapitan
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/stolovaya-rys
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/stop-plus
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/stop-ysr
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/sunduck-bar
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/sytyj-dvorik
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/tajm-stop
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/tavush-pizza
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/tea-funny
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/u-grachika
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/u-teshi
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/udacha-vl
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/uzbexkoe
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/vkusno--i-tochka
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/vyp
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/ya-takoj
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/yami-sushi
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/yummy-pizzakebabs
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/zakusochnaya-horol
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/zakusochnaya-morskoy
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/kalmar
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/bss-global
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/dom-oficerov
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/koncertnyj-zal-mgu-im-adm-g-i-nevelkogo
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/kulturno-dosugovyj-centr-dk
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/muzej
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/muzej-buhty-fedorova
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/muzej-v-s-bezverhovo
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/rodina
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/aeroport-artem
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/agava
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/albedina-ea
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/alien-coffee
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/anisa
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/ararat
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/asia-mix-vl
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/babushkiny-pirozhki
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/bdgastrobar
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/beloe-derevo
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/bibim-bar
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/biblioteka-kofe
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/bigburger
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/bistro-nyam-nyam
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/bordo
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/briosh
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/bufet-posadskaya
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/bufet-usr
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/burger-king-uss
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/chas-obeda
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/chop-kebab
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/coffeboom
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/coffee
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/coffeecity
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/coffeestore
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/cup-it-coffee
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/curry-ya
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/dereza
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/dikaya-orhideya
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/djo
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/doner-house
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/doner-kebab
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/dunge-bar
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/dvin
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/dym-i-more
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/dzhan
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/eda-i-tochka
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/edelvejs-kafe
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/eko
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/elena-vldk
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/fast-fud-artem
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/fishnchips
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/funny-chiken
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/gazirovoshnaya
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/gelato-italiano
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/gril-vil
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/havana
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/hochu-shaurmu
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/hohoro-coffee
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/hot-dog
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/hot-ice-cream
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/hrust
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/ice-roll
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/ikra-i-vodki
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/ip-grudcen
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/isfara
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/iteam
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/jager-house
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/johny-woker
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/kafe-rus
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/kiparis-pit-stop
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/kobra-robra
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/kofe-s-soboj-vl
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/kofejnya-usr
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/kofejnya-vdk
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/konak
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/kulinariya-nomer-1
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/kusvostoka
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/lakomka
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/limaperu
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/lis-vl
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/magazin-ff-produkcii
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/maslomvverh
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/matreshki-vlc
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/meetmeat-vl
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/minutka-horol
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/mishina-e-yu-vl
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/mono-coffee
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/moonshines
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/more-kofe
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/mr-wo
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/muka-i-vodki
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/nabka-bar
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/nalepilla
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/nautilus-coffee
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/nero-coffee-bar
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/new-cafe
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/nstudio
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/oh-my-coffee
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/open-grill
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/papito-bar
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/pari-vlad
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/pchelka-kir
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/pelmennaya-shkotovo
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/pena-dnej
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/pirs-brosnan
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/pit-line
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/plombir-cafe
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/poehali-uss
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/poke-davaj
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/policarp
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/portcoffee
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/proekt-import
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/puzyrki
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/pyanaya-ustrica
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/pyans-se
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/ra-men
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/red-star-coffee
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/retro-coffee-bar
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/roppongi-man
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/seafood-vl
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/shashlychki-u-dyadi-slavy
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/shashlychok-uss
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/shashlykevich
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/shik-avtokafe
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/sila-kofe
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/sinkopa
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/stolovaya-kapitan
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/stolovaya-rys
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/stolovaya-vlc
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/stop-plus
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/stop-ysr
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/sunduck-bar
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/sytyj-dvorik
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/tajm-stop
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/tea-funny
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/the-pizza
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/u-grachika
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/u-teshi
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/udacha-vl
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/uzbexkoe
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/viktoriya-kafe
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/vkusno--i-tochka
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/vkusnyashka-stop
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/vyp
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/ya-takoj
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/yami-sushi
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/yogumi-vlc
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/your-time-vl
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/yummy-pizzakebabs
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/zakusochnaya-horol
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/zakusochnaya-morskoy
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/hayatt-ridzhensi-zolotoj-rog
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/kalmar
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/sanatorii-adonis
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/bss-global
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 104, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/dom-oficerov
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 110, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/koncertnyj-zal-mgu-im-adm-g-i-nevelkogo
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 110, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/muzej-buhty-fedorova
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 110, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/muzej-v-s-bezverhovo
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 110, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/rodina
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 110, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/baza-otdyha-anna
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 122, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/baza-semeinaya
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 122, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/hayatt-ridzhensi-zolotoj-rog
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 122, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/kalmar
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 122, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/sammarin
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 122, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/sanatorii-adonis
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 122, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/vip-resort
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 122, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/sammarin
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 123, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/baza-semeinaya
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 123, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/vip-resort
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 123, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/baza-otdyha-anna
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 123, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/bss-global
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 123, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/lemotur-uss
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 123, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/dom-oficerov
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/dvcpupppzo
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/dom-oficerov
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/dvcpupppzo
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/kinomax-vl
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/koncertnyj-zal-mgu-im-adm-g-i-nevelkogo
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/muzej-buhty-fedorova
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/muzej-v-s-bezverhovo
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/rodina
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/dom-oficerov
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/dvcpupppzo
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/kinomax-vl
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/koncertnyj-zal-mgu-im-adm-g-i-nevelkogo
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/muzej-buhty-fedorova
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/muzej-v-s-bezverhovo
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/rodina
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/2gis-nahodka
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/bss-global
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/lemotur-uss
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/aeroport-artem
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/agava
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/albedina-ea
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/alien-coffee
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/anisa
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/ararat
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/asia-mix-vl
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/bdgastrobar
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/beloe-derevo
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/bibim-bar
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/biblioteka-kofe
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/bigburger
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/bistro-nyam-nyam
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/bordo
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/briosh
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/bufet-posadskaya
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/bufet-usr
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/burger-king-uss
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/chas-obeda
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/chop-kebab
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/coffeboom
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/coffee
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/coffee-time-vl
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/coffeecity
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/coffeestore
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/cup-it-coffee
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/curry-ya
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/dereza
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/dikaya-orhideya
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/djo
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/doner-house
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/doner-kebab
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/dunge-bar
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/dvin
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/dzhan
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/eda-i-tochka
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/edelvejs-kafe
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/elena-vldk
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/fast-fud-artem
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/fishnchips
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/funny-chiken
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/gazirovoshnaya
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/gelato-italiano
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/gril-vil
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/hochu-shaurmu
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/hohoro-coffee
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/hot-dog
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/ice-roll
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/ikra-i-vodki
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/ip-grudcen
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/isfara
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/iteam
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/jager-house
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/johny-woker
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/kafe-rus
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/kiparis-pit-stop
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/kobra-robra
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/kofe-s-soboj-vl
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/kofejnya-usr
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/kofejnya-vdk
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/konak
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/kulinariya-nomer-1
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/kusvostoka
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/limaperu
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/lis-vl
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/magazin-ff-produkcii
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/maslomvverh
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/matreshki-vlc
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/meetmeat-vl
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/minutka-horol
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/mishina-e-yu-vl
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/mono-coffee
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/moonshines
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/more-kofe
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/mr-wo
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/muka-i-vodki
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/nabka-bar
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/nalepilla
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/nautilus-coffee
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/nero-coffee-bar
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/new-cafe
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/nstudio
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/oh-my-coffee
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/open-grill
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/papito-bar
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/pari-vlad
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/pchelka-kir
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/pelmennaya-shkotovo
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/pena-dnej
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/pirs-brosnan
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/pit-line
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/plombir-cafe
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/poehali-uss
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/poke-davaj
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/policarp
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/portcoffee
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/proekt-import
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/puzyrki
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/pyanaya-ustrica
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/pyans-se
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/ra-men
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/red-star-coffee
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/retro-coffee-bar
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/roppongi-man
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/seafood-vl
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/shashlychki-u-dyadi-slavy
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/shashlychok-uss
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/shashlykevich
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/shik-avtokafe
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/sila-kofe
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/sinkopa
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/stolovaya-kapitan
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/stolovaya-rys
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/stolovaya-vlc
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/stop-plus
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/stop-ysr
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/sunduck-bar
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/sytyj-dvorik
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/tea-funny
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/the-pizza
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/u-grachika
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/u-teshi
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/udacha-vl
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/uzbexkoe
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/viktoriya-kafe
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/vkusno--i-tochka
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/vkusnyashka-stop
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/vyp
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/ya-takoj
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/yami-sushi
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/yogumi-vlc
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/your-time-vl
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/yummy-pizzakebabs
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/zakusochnaya-horol
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/zakusochnaya-morskoy
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/aeroport-artem
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/agava
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/albedina-ea
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/alien-coffee
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/anisa
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/ararat
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/asia-mix-vl
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/bdgastrobar
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/beloe-derevo
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/bibim-bar
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/biblioteka-kofe
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/bigburger
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/bistro-nyam-nyam
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/bordo
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/briosh
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/bufet-posadskaya
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/bufet-usr
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/burger-king-uss
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/chas-obeda
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/chop-kebab
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/coffeboom
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/coffee
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/coffee-time-vl
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/coffeecity
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/coffeestore
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/cup-it-coffee
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/curry-ya
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/dereza
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/dikaya-orhideya
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/djo
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/doner-house
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/doner-kebab
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/dunge-bar
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/dvin
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/dym-i-more
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/dzhan
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/eda-i-tochka
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/edelvejs-kafe
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/eko
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/elena-vldk
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/fast-fud-artem
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/fishnchips
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/funny-chiken
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/gazirovoshnaya
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/gelato-italiano
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/gril-vil
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/hochu-shaurmu
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/hohoro-coffee
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/hot-dog
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/hrust
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/ice-roll
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/ikra-i-vodki
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/ip-grudcen
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/isfara
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/iteam
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/jager-house
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/johny-woker
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/kafe-rus
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/kiparis-pit-stop
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/kobra-robra
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/kofe-s-soboj-vl
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/kofejnya-usr
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/kofejnya-vdk
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/konak
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/kulinariya-nomer-1
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/kusvostoka
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/lakomka
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/limaperu
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/lis-vl
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/magazin-ff-produkcii
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/maslomvverh
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/matreshki-vlc
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/meetmeat-vl
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/minutka-horol
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/mishina-e-yu-vl
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/mono-coffee
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/moonshines
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/more-kofe
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/mr-wo
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/muka-i-vodki
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/nabka-bar
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/nalepilla
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/nautilus-coffee
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/nero-coffee-bar
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/new-cafe
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/nstudio
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/oh-my-coffee
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/open-grill
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/papito-bar
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/pari-vlad
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/pchelka-kir
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/pelmennaya-shkotovo
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/pena-dnej
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/pirs-brosnan
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/pit-line
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/plombir-cafe
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/poehali-uss
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/poke-davaj
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/policarp
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/portcoffee
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/proekt-import
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/puzyrki
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/pyanaya-ustrica
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/pyans-se
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/ra-men
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/red-star-coffee
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/retro-coffee-bar
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/roppongi-man
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/seafood-vl
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/shashlychki-u-dyadi-slavy
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/shashlychok-uss
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/shashlykevich
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/shik-avtokafe
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/sila-kofe
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/sinkopa
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/stolovaya-kapitan
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/stolovaya-rys
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/stolovaya-vlc
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/stop-plus
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/stop-ysr
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/sunduck-bar
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/sytyj-dvorik
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/tea-funny
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/the-pizza
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/u-grachika
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/u-teshi
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/udacha-vl
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/uzbexkoe
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/viktoriya-kafe
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/vkusno--i-tochka
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/vkusnyashka-stop
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/vyp
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/ya-takoj
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/yami-sushi
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/yogumi-vlc
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/your-time-vl
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/yummy-pizzakebabs
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/zakusochnaya-horol
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
+https://www.vl.ru/zakusochnaya-morskoy
+Traceback (most recent call last):
+  File "C:\Users\ROV\PycharmProjects\Scrapy\tourism\vl\spiders\VL_Spider.py", line 134, in parse
+    self.phone = response.css('.phone-wrap__inline span::attr(data-phone)').extract_first()[-7:]
+TypeError: 'NoneType' object is not subscriptable
+
